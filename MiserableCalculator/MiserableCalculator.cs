@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 
-
 // task: https://edabit.com/challenge/u2j86CBJibQA5KzQp
 
 namespace MiserableCalculator

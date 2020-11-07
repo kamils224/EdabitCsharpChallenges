@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
+// task: https://edabit.com/challenge/thXMEAWNWyk9cCZcM
+
 namespace MultipleChoiceTest
 {
 	public interface ITestpaper

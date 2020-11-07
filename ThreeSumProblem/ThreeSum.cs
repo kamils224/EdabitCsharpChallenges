@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 
+// task: https://edabit.com/challenge/wrxoYop5uZKG4nNSb
+
 namespace ThreeSumProblem
 {
     public static class Combination
